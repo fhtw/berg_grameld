@@ -1,3 +1,7 @@
 Dritttes File von extreme awesome max
 
 aenderung fuer softreset test
+aenderung fuer softreset development
+
+hotfix fuer kunde
+
