@@ -4,3 +4,4 @@ das ist die erste aenderung
 
 Update 1: Weiterentwicklung
 Update 2: Bugs behoben
+Update 3: weitere Bugs behoben
